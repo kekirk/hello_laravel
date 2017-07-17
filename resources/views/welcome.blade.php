@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5  -- Kirk New World!</div>
+                <div class="title">Laravel 5  -- FT World!</div>
             </div>
         </div>
     </body>
